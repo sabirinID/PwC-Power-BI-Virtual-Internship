@@ -1,1 +1,1 @@
-# PwC-Power-BI-Virtual-Internship
+# PwC Power BI Virtual Internship
